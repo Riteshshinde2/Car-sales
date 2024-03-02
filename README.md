@@ -15,6 +15,6 @@ SUMMERY OF VISUALISATION
 
 3)A car with auto transmission system is sold more compared to manual transmission system
 
-4)Sedan is most sold car body type followed by hardtop and passenger vehicle
+4)Sedan is most costly car body type followed by hardtop and passenger vehicle
 
 5)Most cars are sold in Quarter 4 followed by quarter 3
