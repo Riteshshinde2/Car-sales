@@ -11,9 +11,9 @@ SUMMERY OF VISUALISATION
 
 1)male account for arround 80% of total purchase .
 
-2) Pale White is the most sold car colour.
+2)Pale White is the most sold car colour.
 
-3) A car with auto transmission system is sold more compared to manual transmission system
+3)A car with auto transmission system is sold more compared to manual transmission system
 
 4)Sedan is most sold car body type followed by hardtop and passenger vehicle
 
