@@ -1,5 +1,5 @@
+![Screenshot (57)](https://github.com/Riteshshinde2/Car-sales/assets/155972900/f2b7b524-dfc4-4c4e-8f60-c3de9707e43a)
 
-![Screenshot (10)](https://github.com/Riteshshinde2/Car-sales/assets/155972900/6de41c90-7a75-4b21-a8d6-0c7bbbb142bc)
 
 # Car-sales
 Background: Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. 
